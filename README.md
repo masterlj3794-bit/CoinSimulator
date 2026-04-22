@@ -24,4 +24,7 @@ CoinSimulator 用于在零风险环境下练习加密货币合约交易。
     体验完整交易与爆仓流程
 安装依赖
 在终端运行这条命令安装所有需要的库：
-```pip install PySide6 ccxt pandas pyqtgraph requests lightweight-charts```
+```
+bash
+pip install PySide6 ccxt pandas pyqtgraph requests lightweight-charts
+```

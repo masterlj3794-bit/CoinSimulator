@@ -1,7 +1,7 @@
 # CoinSimulator
 A lightweight cryptocurrency trading simulator with 1:1 real K-line simulation, leverage trading, forced liquidation mechanism and position management. Designed for quantitative strategy testing, trading practice and risk-free simulated investment in crypto markets.
 CoinSimulator
-一款基于真实历史行情 1:1 回放的加密货币模拟交易工具，支持杠杆交易与手动交易，可无风险练习合约操作、测试交易策略。
+一款基于真实历史行情 1:1 回放的加密货币模拟交易（币圈模拟器适合人群，合约练手，测试交易侧策略）工具，支持杠杆交易与手动交易，可无风险练习合约操作、测试交易策略。
 功能特性
 
     真实历史行情 1:1 还原，与实盘走势完全一致
